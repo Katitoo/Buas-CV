@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, 'Times New Roman', Times, serif, sans-serif;
+	font-family: Source Code Pro, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, 'Times New Roman', Times, serif, sans-serif;
 	color: #22592e;
 	background-color: #f8f8fc;
 }
@@ -48,4 +48,7 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+.cool-text {
+    color: #EE7623
 }
